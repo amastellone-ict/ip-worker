@@ -1,5 +1,5 @@
 name = "ip"
-account_id = "44321e1b7fbd29b56b65c1890a3bbee2"
+account_id = "30a0df93b283fb485840d7fddbca58ba"
 compatibility_date = "2025-11-26"
 
 main = "src/index.ts"
