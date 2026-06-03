@@ -8,7 +8,7 @@ workers_dev = false
 preview_urls = false
 
 [[routes]]
-pattern = "ip.willow.sh"
+pattern = "ip.intellicomp.net"
 custom_domain = true
 
 [observability]
